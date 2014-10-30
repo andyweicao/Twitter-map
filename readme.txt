@@ -8,3 +8,9 @@ For the beanstalk, JSP will be automaticlly displayed and Java part will be assi
 In the JSP, the locations will be shown as markers on the google map and you can click each button at top to see changes. The markers have been changed to Twitter bird logo
 
 To executing the code, you need to import the project folder into the eclipse as a dynamic web application and get the database address. For the java updating part, you also need database address and twitter application keys and access key.
+
+
+
+Beanstalk url: http://wc2467twittermap.elasticbeanstalk.com
+Screencast youtube url: https://www.youtube.com/watch?v=CroceiLmG7I&feature=youtu.be
+Github url:https://github.com/andyweicao/Twitter-map
