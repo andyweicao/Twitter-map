@@ -21,4 +21,4 @@ Github url:https://github.com/andyweicao/Twitter-map
 Here are the links to another one we did for the assignment and you can read the readme to learn that:
 https://github.com/Shijie-Hu/TwitMapWeb1
 http://twitmapshijiehu-env.elasticbeanstalk.com/
-https://www.youtube.com/watch?v=CroceiLmG7I&feature=youtu.be
+https://www.youtube.com/watch?v=igFwiZqjGaQ&feature=youtu.be
